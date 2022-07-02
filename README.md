@@ -1,3 +1,3 @@
 # react-in-class
 
-javaScript class notes from my bootcamp
+react class notes from my bootcamp
