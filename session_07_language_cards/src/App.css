@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgb(255, 115, 0);
+  background: linear-gradient(90deg,
+      rgba(255, 115, 0, 0.6702031154258579) 1%,
+      rgba(242, 141, 82, 0.16039919385723034) 100%);
+  height: 100vh;
+
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
