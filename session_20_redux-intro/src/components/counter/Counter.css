@@ -1,0 +1,50 @@
+.counter-header {
+  margin-bottom: 0;
+}
+
+.counter-neg {
+  color: rgb(199, 59, 59);
+}
+
+.counter-pos {
+  color: green;
+}
+
+.counter-zero {
+  color: white;
+}
+
+.counter-button {
+  font-size: 1rem;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  width: 100px;
+}
+
+.positive {
+  background-color: rgb(62, 173, 62);
+  color: white;
+  border: none;
+}
+
+.negative {
+  background-color: rgb(200, 64, 64);
+  color: white;
+  border: none;
+
+}
+
+button {
+  cursor: crosshair;
+  transition: all linear .3s;
+  border: none;
+
+}
+
+button:hover {
+  opacity: 0.9;
+  /* box-shadow: 0 0 5px black; */
+  text-shadow: 3px 0 3px black;
+  border: 1px solid black;
+}
